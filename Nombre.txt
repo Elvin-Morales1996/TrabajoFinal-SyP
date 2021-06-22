@@ -1,0 +1,5 @@
+Elvin Josué Morales Hernández mh16025
+
+Usuarios: 			Contraseña:
+*Admin 			*admin
+*User1			*user
